@@ -1,16 +1,16 @@
-# Beta loss regularization for CNN
-## Loss regularization based on beta distribution for ordinal regression with Deep Learning
+# Beta loss regularisation for CNN
+## Loss regularisation based on beta distribution for ordinal regression with Deep Learning
 
 
 ## Algorithms included
 
-This repo contains the code to run experiments using a deep neural network with an ordinal structure in the output layer and the regularized cross-entropy loss based on the beta distribution.
+This repo contains the code to run experiments using a deep neural network with an ordinal structure in the output layer and the regularised cross-entropy loss based on the beta distribution.
 
 * Stick-breaking output structure.
-* Poisson regularization for cross-entropy loss function.
-* Binomial regularization for cross-entropy loss function.
-* Exponential regularization for cross-entropy loss function.
-* Beta regularization for cross-entropy loss function.
+* Poisson regularisation for cross-entropy loss function.
+* Binomial regularisation for cross-entropy loss function.
+* Exponential regularisation for cross-entropy loss function.
+* Beta regularisation for cross-entropy loss function.
 
 
 ## Installation
@@ -45,7 +45,7 @@ You can run all the experiments using the file *run.sh*.
 
 ## Citation
 
-The paper titled "Loss regularization based on beta distribution for ordinal regression with Deep Learning" has been submitted to Neural Networks (NEUNET).
+The paper titled "Loss regularisation based on beta distribution for ordinal regression with Deep Learning" has been submitted to Neural Networks (NEUNET).
 
 ## Contributors
 
