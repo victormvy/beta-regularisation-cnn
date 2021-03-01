@@ -1,5 +1,5 @@
 # Beta loss regularisation for CNN
-## Loss regularisation based on beta distribution for ordinal regression with Deep Learning
+## Unimodal regularisation based on beta distribution for ordinal regression with Deep Learning
 
 
 ## Algorithms included
@@ -45,11 +45,11 @@ You can run all the experiments using the file *run.sh*.
 
 ## Citation
 
-The paper titled "Loss regularisation based on beta distribution for ordinal regression with Deep Learning" has been submitted to Neural Networks (NEUNET).
+The paper titled "Unimodal regularisation based on beta distribution for ordinal regression with Deep Learning" has been submitted to Pattern Recognition.
 
 ## Contributors
 
-#### Activation functions for convolutional neural networks: proposals and experimental study
+#### Unimodal regularisation based on beta distribution for ordinal regression with Deep Learning
 
 * Víctor Manuel Vargas ([@victormvy](https://github.com/victormvy))
 * Pedro Antonio Gutiérrez ([@pagutierrez](https://github.com/pagutierrez))
